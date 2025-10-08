@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dafter logo">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffcfe3"/>
+      <stop offset="1" stop-color="#fff3b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#a)"/>
+  <g fill="#2b2b2b" opacity=".9">
+    <path d="M18 20h28v6H18zM18 30h22v6H18zM18 40h18v6H18z"/>
+    <circle cx="46" cy="43" r="3"/>
+  </g>
+</svg>
